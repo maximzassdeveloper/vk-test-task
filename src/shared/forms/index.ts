@@ -1,0 +1,1 @@
+export { vkUiRegister } from './utils'

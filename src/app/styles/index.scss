@@ -1,0 +1,7 @@
+@import './vars';
+
+.layout {
+  width: 100%;
+  max-width: var(--layout-width);
+  margin: 0 auto 0;
+}
